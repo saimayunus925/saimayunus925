@@ -29,5 +29,7 @@ I'm currently learning JavaScript, and I'm currently working on some projects wi
   Fun fact: I was born on St. Patrick's Day! ☘️
   
   How to reach me:
+  
     - Email: saimayunus925@gmail.com
+    
     - Phone: 925-786-3973
