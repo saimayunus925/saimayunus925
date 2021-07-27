@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Saima Yunus! I'm a computer engineering student at SJSU and an aspiring programmer. My top two languages are C++ and Python; I've also worked with C, HTML/CSS, and JavaScript.
+I'm Saima Yunus! I'm a computer engineering student at SJSU and an aspiring programmer. My top two languages are C++ and Python; however, I am also proficient in JavaScript, HTML/CSS, React, and Flask.
   
 I enjoy 
 - doing practice programming problems
