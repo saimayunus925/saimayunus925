@@ -8,6 +8,8 @@ I enjoy
 - Bollywood dancing
 - singing
 - creative writing
+- cooking/baking
+- cycling
 - making pop culture references
 - reading 
   
