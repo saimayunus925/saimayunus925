@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Saima Yunus! I'm a Cisco technical intern, an SJSU computer engineering graduate, and an aspiring software developer. My top two languages are C++ and Python; however, I am also proficient in HTML/CSS and Flask, and I'm familiar with React and basic JavaScript.
+I'm Saima Yunus! I'm a former Cisco technical intern, an SJSU computer engineering graduate, and an aspiring software developer. My top two languages are C++ and Python; however, I am also proficient in HTML/CSS and Flask, and I'm familiar with React and basic JavaScript.
   
 I enjoy 
 - doing practice programming problems
